@@ -1,0 +1,17 @@
+{
+  "name": "mapflow",
+  "version": "1.0.0",
+  "description": "Data transformation using generator *functions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/compare_map.spec.js"
+  },
+  "keywords": ["generators", "map"],
+  "author": "rybarix",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/rybarix/mapflow",
+    "type": "git"
+  }
+}
